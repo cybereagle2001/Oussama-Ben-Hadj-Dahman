@@ -118,4 +118,4 @@ October 2020
 # Projects
 [follow this link in order to discover my projects](https://cybereagle2001.github.io/Projects/)
 
-                                               ALL RIGHT RESERVED @cybereagle2001
+
